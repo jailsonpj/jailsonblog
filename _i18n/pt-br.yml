@@ -1,0 +1,33 @@
+site:
+  name: Jailson Pereira Januário
+  description: 'Blog pessoal para compartilhar estudos, vida acadêmica, profissional e comunitária.'
+  author-description: "Ciêntista de Dados formado em Sistemas de Informação e Mestre em Computação. Membro da comunidade Python e de projetos cívicos para ensino de programação a comunidade ribeirinhas e povos originários."
+  keywords: Tecnologia
+  lang: pt-br
+main:
+  archive: Posts com
+  home:
+    topics: Temas
+  categories:
+    tags: Tipo de conteúdo
+    topics: Tema
+  error:
+    title: Eita... Não achei...
+    description: Dá uma olhada na página inicial ou usa a janela de busca!
+  posts:
+    toc: Sumário
+    translate: Você também pode ler esse texto em
+    prev-next: Leia também
+pages:
+  about: Sobre mim
+  blog: Blog
+  category: Categorias
+  contact: Contato
+  topics: Temas
+links:
+  about: sobre-mim
+  blog: 
+  category: categorias
+  contact: contato
+  topics: temas
+  tags: atividades
